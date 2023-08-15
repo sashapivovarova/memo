@@ -1,4 +1,4 @@
-git remote add origin git@github.com:sashapivovarova/<repogitoryName>.git                                               
+git remote add origin git@github.com:<githubName>/<repogitoryName>.git                                               
 git add . 
 git commit -m "<Comment>"
 git push -u origin <branchName>
